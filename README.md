@@ -1,2 +1,2 @@
 # Diabetes-Prediction-
-I have used six classification techniques, artificial neural network (ANN), Support Vector Machine (SVM), Decision tree (DT), random forest (RF), Logistics Regression (LR) and Naïve Bayes (NB)
+I have used six classification techniques, artificial neural network (ANN), Support Vector Machine (SVM), Decision tree (DT), random forest (RF), Logistics Regression (LR) and Naïve Bayes (NB). I used to Prima Indian Diabetes Dataset and apply mechine learrning technique. I tried to predict how many people may be infected with diabetes through by 70% or more accuracy using Naive Bayes algorithm.
